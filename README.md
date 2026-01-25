@@ -1,6 +1,12 @@
+<p align="center">
+  <img width="330px" src="https://blog.azeheb.com.br/wp-content/uploads/2017/10/rick-and-morty-e-a-ciencias.jpg"/>
+</p>
+
+---
+
 <h1 align="center">Hi there 👋, I'm Laura Fonsêca</h1>
 <h3 align="center">
-Information Systems student · Aspiring Software Developer · UI/UX enthusiast
+Information Systems student · Software Developer · UI/UX 
 </h3>
 
 ---
@@ -51,6 +57,7 @@ My interests lie especially in how **software and design can be shaped by human 
 </p>
 
 ---
+
 ## 📫 Connect with me
 
 <p>
@@ -58,4 +65,3 @@ My interests lie especially in how **software and design can be shaped by human 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
