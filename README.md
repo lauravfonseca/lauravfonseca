@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40">
   </a>
   <a href="https://open.spotify.com/user/muvlre5fezr6jha0qyk8zh9g5" target="_blank">
-    <img src="https://img.icons8.com/color/48/spotify--v1.png" alt="Spotify" height="40">
+    <img src="assets/spotify.svg" alt="Spotify" height="40">
   </a>
   <a href="https://github.com/lauravfonseca" target="_blank">
     <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" height="40">
@@ -41,7 +41,7 @@
 <h2>Technologies & tools</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,github,figma" alt="Technologies and tools">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,github,figma" alt="Technologies and tools">
 </p>
 
 <br>
