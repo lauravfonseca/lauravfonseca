@@ -1,52 +1,45 @@
-<h2 align="center">hi there 👋</h2>
+<h3>Hi there! :)</h3>
+
+<h1 align="center">Laura Fonseca</h1>
 
 <p align="center">
-information systems student · software developer · ui/ux
+  Information Systems Student | UI/UX Design | Product | Artificial Intelligence
 </p>
-
----
 
 <p align="center">
-  <img width="330px" src="https://blog.azeheb.com.br/wp-content/uploads/2017/10/rick-and-morty-e-a-ciencias.jpg"/>
-
-  <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravfonseca&hide_border=true&layout=compact&theme=github_dark"/>
+  <a href="https://www.linkedin.com/in/lauravnfonseca" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://github.com/lauravfonseca" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
+  </a>
 </p>
 
----
-
-### about me
-
-🎓 Information Systems student at **CIn-UFPE**  
-🌎 Interested in the intersection of **technology, culture, and social transformation**  
-🧠 Passionate about building **ethical, inclusive, and human-centered digital experiences**
-
----
-
-### tech stack
+<h2>About me</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  I'm an Information Systems student at the Center of Informatics of the Federal University of Pernambuco (CIn-UFPE),
+  interested in the intersection of technology, culture and social transformation.
 </p>
-
----
-
-### stats
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=lauravfonseca&show_icons=true&hide_border=true&theme=github_dark"/>
-</p>
-
----
-
-### connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/lauravnfonseca/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  I currently lead the UX/UI team at Seal, the Software Engineering League at CIn, and I'm part of CITi,
+  a junior tech company, where I help run the selection process and mentor new members.
+</p>
+
+<p>
+  I'm exploring UI/UX design, product development, data and Artificial Intelligence, while strengthening my programming skills.
+  My goal is to build ethical, inclusive and human-centered digital experiences.
+</p>
+
+<h2>Technologies & tools</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,github,figma" alt="Technologies and tools">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lauravfonseca&label=visitors&color=0e75b6&style=flat" alt="visitors">
 </p>
