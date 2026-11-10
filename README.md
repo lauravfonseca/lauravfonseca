@@ -8,10 +8,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lauravnfonseca" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40">
+  </a>
+  <a href="mailto:lauravnfonseca@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40">
+  </a>
+  <a href="https://open.spotify.com/user/muvlre5fezr6jha0qyk8zh9g5" target="_blank">
+    <img src="https://img.icons8.com/color/48/spotify--v1.png" alt="Spotify" height="40">
   </a>
   <a href="https://github.com/lauravfonseca" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" height="40">
   </a>
 </p>
 
