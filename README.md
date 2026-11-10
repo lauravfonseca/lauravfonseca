@@ -41,7 +41,7 @@
 <h2>Technologies & tools</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,github,figma" alt="Technologies and tools">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,figma" alt="Technologies and tools">
 </p>
 
 <br>
