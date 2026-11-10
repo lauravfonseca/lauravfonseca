@@ -1,6 +1,6 @@
 <h3>Hi there! :)</h3>
 
-<h1 align="center">Laura Fonseca</h1>
+<h1 align="center">Laura Fonsêca</h1>
 
 <p align="center">
   Information Systems Student | UI/UX Design | Product | Artificial Intelligence
