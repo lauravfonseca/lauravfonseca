@@ -3,7 +3,7 @@
 <h1 align="center">Laura Fonsêca</h1>
 
 <p align="center">
-  Information Systems Student | Project management | UI/UX Design | Product | Artificial Intelligence
+  Information Systems Student | Project Management | UI/UX Design | Product | Artificial Intelligence
 </p>
 
 <p align="center">
